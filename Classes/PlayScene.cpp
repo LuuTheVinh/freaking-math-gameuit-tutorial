@@ -1,6 +1,5 @@
-﻿#include "PlayScene.h"
+#include "PlayScene.h"
 #include "MenuScene.h"
-#include <cocos2d/cocos/editor-support/cocostudio/CSParseBinary_generated.h>
 
 Scene* PlayScene::createScene()
 {
